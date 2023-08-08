@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/ic_img_reminder.xml" value="0.137" />
+        <entry key="app/src/main/res/drawable/ic_img_todo.xml" value="0.137" />
+        <entry key="app/src/main/res/drawable/ic_wave.xml" value="0.137" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.23697916666666666" />
       </map>
     </option>
